@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sbalaji2000s@gmail.com**
 
-- ⚡ Fun fact **I think we don't run too often now a days! :))**
+- ⚡ Fun fact **I think we don't run too often now a days, do we ? :))**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

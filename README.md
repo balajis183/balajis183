@@ -27,3 +27,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=balajis183&show_icons=true&locale=en" alt="balajis183" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balajis183&" alt="balajis183" /></p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=balajis183&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+

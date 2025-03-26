@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Dashboard for an application "Spiway"](https://github.com/balajis183/spiway-admin-dashboard.git)  &&
 
-  -[Creating APIs for whatsapp  API cloud (meta API)](https://github.com/balajis183/meta-API.git)
+-⚡ [Creating APIs for whatsapp API cloud](https://github.com/balajis183/meta-API.git)
 
 - 👨‍💻 All of my projects are available at [https://github.com/balajis183](https://github.com/balajis183)
 

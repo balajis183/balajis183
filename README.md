@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balajis183&label=Profile%20views&color=0e75b6&style=flat" alt="balajis183" /> </p>
 
-- 🔭 I’m currently working on [Dashboard for an application "Spiway"](https://github.com/balajis183/spiway-admin-dashboard.git)  &&
-
-- ⚡ [Creating APIs for whatsapp API cloud](https://github.com/balajis183/meta-API.git)
-
 - 👨‍💻 All of my projects are available at [https://github.com/balajis183](https://github.com/balajis183)
 
 - 💬 Ask me about **Git version control, MERN full stack technologies (Node.js, Express.js,React.js, MongoDB), JavaScript, html, CSS ,C and Java programming and many more related to technology.**

@@ -3,7 +3,22 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balajis183&label=Profile%20views&color=0e75b6&style=flat" alt="balajis183" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/balajis183](https://github.com/balajis183)
+- 👨‍💻 All of my projects are available at [https://github.com/balajis183](https://github.com/balajis183?tab=repositories)
+
+ ## 🌐 Featured Projects
+
+- **Future Forbes (Company Website):**  
+  [https://futureforbes.in/](https://futureforbes.in/)
+
+- **Freelance Project for Business – Laxmi Hospitality Services:**  
+  [https://laxmi-hospitality-services.onrender.com/](https://laxmi-hospitality-services.onrender.com/)
+
+- **Ongoing – Journal Website for Future Forbes:**  
+  [https://future-forbes-journal-website.onrender.com/](https://future-forbes-journal-website.onrender.com/)
+
+- **Personal Project – Stayhub Hotel Management:**  
+  [https://stayhub-hotel-management-system.onrender.com/](https://stayhub-hotel-management-system.onrender.com/)
+
 
 - 💬 Ask me about **Git version control, MERN full stack technologies (Node.js, Express.js,React.js, MongoDB), JavaScript, html, CSS ,C and Java programming and many more related to technology.**
 

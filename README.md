@@ -11,7 +11,7 @@
   [https://futureforbes.in/](https://futureforbes.in/)
 
 - **Freelance Project for Business – Laxmi Hospitality Services:**  
-  [https://laxmi-hospitality-services.onrender.com/](https://laxmi-hospitality-services.onrender.com/)
+  [https://laxmihospitalityservices.in/](https://laxmihospitalityservices.in/)
 
 - **Ongoing – Journal Website for Future Forbes:**  
   [https://future-forbes-journal-website.onrender.com/](https://future-forbes-journal-website.onrender.com/)
